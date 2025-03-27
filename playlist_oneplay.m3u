@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="canal_oneplay" tvg-name="OnePlay" tvg-logo="https://github.com/zoreu/tvoneplayconfig/raw/refs/heads/main/logo_oneplay.png" group-title="CANAL ONEPLAY",OnePlay
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/oneplaytv/playlist.m3u8
